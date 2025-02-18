@@ -8,3 +8,4 @@
  
 * Essentially, I just want a safe place for this file.
 * Source for this file: [Practical C++ STL Programming](https://github.com/Apress/Practical-CPP-STL-Programming/tree/main) by Daniel Kusswurm (Apress, 2024).
+* This file is found in the `Common` directory of that repository.
